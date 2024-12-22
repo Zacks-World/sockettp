@@ -2,6 +2,18 @@
 
 Welcome to the **Java Socket Programming** repository! This repository contains educational materials and practical examples for understanding and implementing socket programming in Java. The content includes both theoretical explanations and hands-on exercises.
 
+## 📑 Table of Contents
+1. [Contents](#-contents)
+   - [Course Material](#1-course-material)
+   - [Practical Exercises](#2-practical-exercises)
+2. [Getting Started](#-getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Running the Examples](#running-the-examples)
+3. [Tools and Technologies](#-tools-and-technologies)
+4. [References](#-references)
+5. [Contributing](#-contributing)
+6. [Contact](#-contact)
+
 ## 📄 Contents
 
 ### 1. Course Material
@@ -40,8 +52,3 @@ Build a simple file server that supports multiple clients simultaneously:
 ### Prerequisites
 - Java Development Kit (JDK) 8 or later.
 - Basic understanding of Java programming and networking concepts.
-
-### Running the Examples
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Java-Socket-Programming.git
